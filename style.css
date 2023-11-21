@@ -48,10 +48,12 @@ hr{
 }
 .art-img-person {
     display: block;
+    align-items: center;
     padding: 10px;
     margin-left: auto;
     margin-right: auto;
-    width: max-content;
+    width: 100%;
+    height: auto;
 }
 
 
